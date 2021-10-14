@@ -1,14 +1,10 @@
 <template>
-  <router-view></router-view>
+    <h3>Edit</h3>
 </template>
 
-
 <script>
-
 export default {
-  name: 'App',
+    
+    
 }
-
 </script>
-
-
